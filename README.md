@@ -11,7 +11,7 @@ The following changes have also been implemented:
 
 ## Installation
 
-Please follow this live URL to gain access to the completed work: 
+Please follow this live URL to gain access to the completed work: (https://sdevtjb.github.io/challenge-one/) 
 
 
 ## Instructions
