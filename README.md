@@ -19,8 +19,7 @@ Please follow this live URL to gain access to the completed work:
 Please see Github pages or the link above to view the deployed application. 
 
 ![alt text](assets/images/demo-one.png)
-![alt text](assets/images/demo-two.png)
-![alt text](assets/images/dem-three.png)
+
 
 ## Credit
 
