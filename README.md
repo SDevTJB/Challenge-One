@@ -20,7 +20,7 @@ Please see Github pages or the link above to view the deployed application.
 
 ![alt text](assets/images/demo-one.png)
 ![alt text](assets/images/demo-two.png)
-![alt text](assets/images/dem-three.png)
+![alt text](assets/images/demo-three.png)
 
 ## Credit
 
